@@ -1,12 +1,12 @@
-# MFManager
+# Financio
 
 This is a personal project to learn about Android mobile application development. This application helps the user keep track of all the expenditures and income by recording them.
 
 ## Project title
-MFManager (My Financial Manager)
+Financio (A Financial Manager Mobile Application)
 
 ## Project duration
-Mar 1st, 2018 - Apr 8th, 2018.
+Feb 1st, 2024 - Apr 8th, 2024.
 
 ## Framework and language
 Android Studio + Java + SQLite
